@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+lstm_tuning/*
+glove.6B/*
 # C extensions
 *.so
 .DS_Store
